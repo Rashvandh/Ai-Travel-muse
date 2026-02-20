@@ -1,0 +1,15 @@
+# Environment files
+.env
+ai-travel-muse-main/.env
+
+# Dependencies
+node_modules/
+ai-travel-muse-main/node_modules/
+
+# Build outputs
+dist/
+ai-travel-muse-main/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
